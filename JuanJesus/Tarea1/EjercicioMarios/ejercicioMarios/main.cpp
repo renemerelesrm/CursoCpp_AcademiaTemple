@@ -133,8 +133,5 @@ auto main() -> int32_t
 			std::cout << mario[i];
 		}
  	}
-
-	std::cout << "Hola";
-
 	return EXIT_SUCCESS;
 }
