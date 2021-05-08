@@ -134,5 +134,7 @@ auto main() -> int32_t
 		}
  	}
 
+	std::cout << "Hola";
+
 	return EXIT_SUCCESS;
 }
